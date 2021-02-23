@@ -98,6 +98,7 @@ def tagset_mapping(source, target):
                 "ADV-PRO": "PRON",
                 "ANUM": "ADJ",
                 "CONJ": "CONJ",
+                "INIT": "NOUN",
                 "INTJ": "X",
                 "NONLEX": ".",
                 "NUM": "NUM",
